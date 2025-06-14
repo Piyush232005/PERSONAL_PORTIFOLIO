@@ -213,8 +213,8 @@ export const SkillsInfo = [
         "Designed and coded a personal portfolio website from scratch using HTML and CSS, where all projects,were showcased alongside skills, major courses, and contact details.",
       image: jsportifolio,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      github: "https://github.com/Piyush232005/My-Portifolio",
+      webapp: "https://piyush232005.github.io/My-Portifolio/",
     },
     {
       id: 3,
@@ -234,7 +234,7 @@ export const SkillsInfo = [
       image: tolist,
       tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
       github: "https://github.com/Piyush232005/To-do-app-",
-      webapp: "https://github.com/Piyush232005/To-do-app-",
+      webapp: "https://piyush232005.github.io/To-do-app-/",
     },
     {
       id: 5,

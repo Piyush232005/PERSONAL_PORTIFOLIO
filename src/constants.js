@@ -36,7 +36,6 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 // Experience Section Logo's
 import stech from './assets/company_logo/st.png';
 import fft from './assets/company_logo/fft.png';
-// import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 import gurugobindh from './assets/education_logo/GGSIU_logo.svg.png';
@@ -50,9 +49,6 @@ import jsportifolio from './assets/work_logo/js_portifolio.png';
 import student from './assets/work_logo/std3.png';
 import tolist from './assets/work_logo/ToDo1.png';
 import weather from './assets/work_logo/Weather1.png';
-// import cmLogo from './assets/work_logo/cm.png';
-// import imagesearchLogo from './assets/work_logo/image_search.png';
-// import removebgLogo from './assets/work_logo/remove_bg.png';
 
 
 export const SkillsInfo = [

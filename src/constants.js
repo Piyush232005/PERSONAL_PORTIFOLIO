@@ -204,7 +204,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Js Portifolio",
+      title: "Js Portfolio",
       description:
         "Designed and coded a personal portfolio website from scratch using HTML and CSS, where all projects,were showcased alongside skills, major courses, and contact details.",
       image: jsportifolio,

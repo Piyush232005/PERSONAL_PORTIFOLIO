@@ -46,7 +46,7 @@ import kvlogo from './assets/education_logo/kvlogo.png';
 import githubdetLogo from './assets/work_logo/github_user.png';
 import food from './assets/work_logo/food_dictator.png';
 import jsportifolio from './assets/work_logo/js_portifolio.png';
-import student from './assets/work_logo/std3.png';
+import student from './assets/work_logo/MOOD.png';
 import tolist from './assets/work_logo/ToDo1.png';
 import weather from './assets/work_logo/Weather1.png';
 
@@ -214,13 +214,13 @@ export const SkillsInfo = [
     },
     {
       id: 3,
-      title: "Student Management Project",
+      title: "Ai-mood-Detection",
       description:
-        "This project made with help of c ++ programming language and concepts of oop basically this code done in 250 line code ,wher the basic feature is that student id are added,created ,updated and deleted taskes perform in this projec.",
+        "This project made with help of of MernStack technology with Face Api .js The AI Mood Detection web application is designed to analyze facial expressions and accurately determine the user's current emotional state, such as happiness, sadness, anger, or surprise. This project utilizes advanced machine learning algorithms and computer vision techniques to provide real-time mood analysis through a user-friendly interface.",
       image: student,
       tags: ["React JS", "Node.js", "NPM", "Validation"],
-      github: "https://github.com/Piyush232005/student-Management-project",
-      webapp: "https://github.com/Piyush232005/student-Management-project",
+      github: "https://github.com/Piyush232005/Mood-listner",
+      webapp: "https://github.com/Piyush232005/Mood-listnert",
     },
     {
       id: 4,

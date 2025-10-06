@@ -124,22 +124,22 @@ export const SkillsInfo = [
         "Python",
       ],
     },
-    {
-      id: 1,
-      img: fft,
-      role: "Video Editor",
-      company: "Fifteen for teen",
-      date: " May 2025 - June 2025",
-      desc: "I have complete my Part time video editing internship at Fifteen for teen, in this internship i learn lot of about video editing skill as well as team work skill which help me to build my teamwork skill in future ",
-      skills: [
-        "Adobe premiar pro",
-        "Clipchamp",
-        "Filmora",
-        "Animinating skill",
-        "Teamwork",
-        "Capcut",
-      ],
-    },
+    // {
+    //   id: 1,
+    //   img: fft,
+    //   role: "Video Editor",
+    //   company: "Fifteen for teen",
+    //   date: " May 2025 - June 2025",
+    //   desc: "I have complete my Part time video editing internship at Fifteen for teen, in this internship i learn lot of about video editing skill as well as team work skill which help me to build my teamwork skill in future ",
+    //   skills: [
+    //     "Adobe premiar pro",
+    //     "Clipchamp",
+    //     "Filmora",
+    //     "Animinating skill",
+    //     "Teamwork",
+    //     "Capcut",
+    //   ],
+    // },
     
   ];
   
@@ -168,7 +168,7 @@ export const SkillsInfo = [
       date: "Apr 2021 - March 2023",
       grade: "87%",
       desc: "I completed my class 12 education from Kendriya vidyalya pitampura,Delhi, under the CBSE board, where I studied Physics, Chemistry, and Mathematics and Biology (PCMB)",
-      degree: "CBSE(XII) - PCMb",
+      degree: "CBSE(XII) - PCMB",
     },
     {
       id: 3,
